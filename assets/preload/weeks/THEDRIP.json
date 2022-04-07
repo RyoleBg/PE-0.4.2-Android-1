@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"drip",
+			"tails",
+			[
+				255,
+				110,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "tails",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"tailsdrip",
+		"",
+		"bf"
+	],
+	"storyName": "yoyoyoyoyoyoyoyoyo",
+	"weekName": "TailsDrip",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
